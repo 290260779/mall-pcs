@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="mall-pc:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="74531d40-cb45-4aee-a358-07f995e7fbca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/generator/AutoGeneratorModel.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="jizhi-lingzhi" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="C:\Users\Fang\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dfZ9XSdhZvIpMesbK2JsWkYyRy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="2" id="Remove" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.50574714" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\wenboqin\linzhi\jizhi-lingzhi\src\main\java\com" />
+      <recent name="D:\wenboqin\linzhi\jizhi-lingzhi\src\main\java\com\service" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/quark/api" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/api" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.mall.api" />
+      <recent name="com.utils.model" />
+      <recent name="com.lingzhi.api" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.mall-pc">
+    <configuration name="AndroidPush" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.utils.AndroidPush" />
+      <module name="jizhi-lingzhi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutoGeneratorModel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.generator.AutoGeneratorModel" />
+      <module name="jizhi_lingzhi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.generator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MessagePipe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.utils.message.MessagePipe" />
+      <module name="jizhi-lingzhi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.utils.message.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SendMessageUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.utils.SendMessageUtils" />
+      <module name="jizhi-lingzhi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mall-pc" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.49" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8088/mall/api/list" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="mall-pc:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/mall" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_jizhi_lingzhi" />
+        <option name="HTTP_PORT" value="8088" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="53505" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Debug with VisualVM">
+        <option name="DEBUG_PORT" value="53506" />
+        <option name="visualVMId" value="238928877162647" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="jizhi_lingzhi:war" />
+          <artifact name="jizhi-lingzhi:war" />
+          <artifact name="mall-pc:war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.AutoGeneratorModel" />
+      <item itemvalue="Application.AndroidPush" />
+      <item itemvalue="Application.SendMessageUtils" />
+      <item itemvalue="Application.MessagePipe" />
+      <item itemvalue="Tomcat Server.mall-pc" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AutoGeneratorModel" />
+        <item itemvalue="Application.MessagePipe" />
+        <item itemvalue="Application.SendMessageUtils" />
+        <item itemvalue="Application.AndroidPush" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.026592022" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Fang\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74531d40-cb45-4aee-a358-07f995e7fbca" name="Default Changelist" comment="" />
+      <created>1592817956610</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592817956610</updated>
+      <workItem from="1592817959975" duration="31356000" />
+      <workItem from="1593314963869" duration="9394000" />
+      <workItem from="1595581085163" duration="1289000" />
+      <workItem from="1595582766574" duration="3984000" />
+      <workItem from="1595587895394" duration="222000" />
+      <workItem from="1595821060228" duration="10674000" />
+      <workItem from="1595849089051" duration="1903000" />
+      <workItem from="1595899816325" duration="25958000" />
+      <workItem from="1596187717003" duration="12852000" />
+      <workItem from="1596416538099" duration="1399000" />
+      <workItem from="1596417973989" duration="19284000" />
+      <workItem from="1596438066070" duration="1717000" />
+      <workItem from="1596503125684" duration="1836000" />
+      <workItem from="1596521261123" duration="7426000" />
+      <workItem from="1596529053053" duration="11115000" />
+      <workItem from="1596606536698" duration="514000" />
+      <workItem from="1596621755596" duration="32977000" />
+      <workItem from="1596715608033" duration="114423000" />
+      <workItem from="1597053442074" duration="11598000" />
+      <workItem from="1597306420949" duration="1999000" />
+      <workItem from="1610355800193" duration="13000" />
+      <workItem from="1610355907403" duration="911000" />
+      <workItem from="1610357206790" duration="1799000" />
+      <workItem from="1610415965047" duration="17000" />
+      <workItem from="1610418958935" duration="25000" />
+      <workItem from="1610419130785" duration="112000" />
+      <workItem from="1610419416902" duration="110000" />
+      <workItem from="1610419549122" duration="10000" />
+      <workItem from="1610439300273" duration="2593000" />
+      <workItem from="1610505067097" duration="1716000" />
+      <workItem from="1610513493789" duration="8392000" />
+      <workItem from="1610609640683" duration="30000" />
+      <workItem from="1610959833846" duration="25000" />
+      <workItem from="1611019113159" duration="25000" />
+      <workItem from="1611650898701" duration="40000" />
+      <workItem from="1614768000968" duration="408000" />
+      <workItem from="1614823325162" duration="604000" />
+      <workItem from="1614824060468" duration="74000" />
+      <workItem from="1614825304711" duration="68000" />
+      <workItem from="1614829347252" duration="19000" />
+      <workItem from="1614918807764" duration="628000" />
+      <workItem from="1615171157809" duration="87000" />
+      <workItem from="1615268466142" duration="679000" />
+      <workItem from="1615278430390" duration="397000" />
+      <workItem from="1615280097144" duration="489000" />
+      <workItem from="1615283243843" duration="496000" />
+      <workItem from="1615283788811" duration="19000" />
+      <workItem from="1615284054971" duration="65000" />
+      <workItem from="1615284628854" duration="212000" />
+      <workItem from="1615371050010" duration="502000" />
+      <workItem from="1615451457036" duration="5450000" />
+      <workItem from="1615531002877" duration="101000" />
+      <workItem from="1615776630291" duration="571000" />
+      <workItem from="1615777583678" duration="1409000" />
+      <workItem from="1615803129192" duration="718000" />
+      <workItem from="1616060617683" duration="2260000" />
+      <workItem from="1616573522364" duration="1701000" />
+      <workItem from="1616670147364" duration="24000" />
+      <workItem from="1616670181671" duration="17000" />
+      <workItem from="1617092611309" duration="17000" />
+      <workItem from="1617190397401" duration="62000" />
+      <workItem from="1617274329561" duration="89000" />
+      <workItem from="1617328036251" duration="867000" />
+      <workItem from="1617331582761" duration="924000" />
+      <workItem from="1617332529971" duration="724000" />
+      <workItem from="1617333270176" duration="1263000" />
+      <workItem from="1617334663591" duration="38000" />
+    </task>
+    <task id="LOCAL-00001">
+      <created>1595834694272</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595834694272</updated>
+    </task>
+    <task id="LOCAL-00002">
+      <created>1595839523904</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595839523904</updated>
+    </task>
+    <task id="LOCAL-00003">
+      <created>1596008937888</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596008937888</updated>
+    </task>
+    <task id="LOCAL-00004">
+      <created>1596013772864</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1596013772864</updated>
+    </task>
+    <task id="LOCAL-00005">
+      <created>1596202113548</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1596202113548</updated>
+    </task>
+    <task id="LOCAL-00006">
+      <created>1596202305844</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1596202305844</updated>
+    </task>
+    <task id="LOCAL-00007">
+      <created>1596203330680</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1596203330680</updated>
+    </task>
+    <task id="LOCAL-00008">
+      <created>1596204019136</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1596204019136</updated>
+    </task>
+    <task id="LOCAL-00009">
+      <created>1596421078094</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1596421078094</updated>
+    </task>
+    <task id="LOCAL-00010">
+      <created>1596423555301</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1596423555301</updated>
+    </task>
+    <task id="LOCAL-00011">
+      <created>1596423579504</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1596423579504</updated>
+    </task>
+    <task id="LOCAL-00012">
+      <created>1596424182987</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1596424182987</updated>
+    </task>
+    <task id="LOCAL-00013">
+      <created>1596425702815</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1596425702815</updated>
+    </task>
+    <task id="LOCAL-00014">
+      <created>1596426107983</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1596426107983</updated>
+    </task>
+    <task id="LOCAL-00015">
+      <created>1596427256415</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1596427256416</updated>
+    </task>
+    <task id="LOCAL-00016">
+      <created>1596427449211</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1596427449212</updated>
+    </task>
+    <task id="LOCAL-00017">
+      <created>1596428221053</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1596428221053</updated>
+    </task>
+    <task id="LOCAL-00018">
+      <created>1596429463970</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1596429463970</updated>
+    </task>
+    <task id="LOCAL-00019">
+      <created>1596429722705</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1596429722705</updated>
+    </task>
+    <task id="LOCAL-00020">
+      <created>1596432779562</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1596432779562</updated>
+    </task>
+    <task id="LOCAL-00021">
+      <created>1596433335180</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1596433335180</updated>
+    </task>
+    <task id="LOCAL-00022">
+      <created>1596433633559</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1596433633559</updated>
+    </task>
+    <task id="LOCAL-00023">
+      <created>1596434172175</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1596434172175</updated>
+    </task>
+    <task id="LOCAL-00024">
+      <created>1596434236133</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1596434236133</updated>
+    </task>
+    <task id="LOCAL-00025">
+      <created>1596434499201</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1596434499201</updated>
+    </task>
+    <task id="LOCAL-00026">
+      <created>1596435641966</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1596435641966</updated>
+    </task>
+    <task id="LOCAL-00027">
+      <created>1596436770553</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1596436770553</updated>
+    </task>
+    <task id="LOCAL-00028">
+      <created>1596503528915</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1596503528915</updated>
+    </task>
+    <task id="LOCAL-00029">
+      <created>1596529323899</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1596529323899</updated>
+    </task>
+    <task id="LOCAL-00030">
+      <created>1596534574394</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1596534574395</updated>
+    </task>
+    <task id="LOCAL-00031">
+      <created>1596535856507</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1596535856507</updated>
+    </task>
+    <task id="LOCAL-00032">
+      <created>1596595834538</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1596595834538</updated>
+    </task>
+    <task id="LOCAL-00033">
+      <created>1596596283145</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1596596283145</updated>
+    </task>
+    <task id="LOCAL-00034">
+      <created>1596622024898</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1596622024898</updated>
+    </task>
+    <task id="LOCAL-00035">
+      <created>1596622086560</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1596622086560</updated>
+    </task>
+    <task id="LOCAL-00036">
+      <created>1596669980259</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1596669980259</updated>
+    </task>
+    <task id="LOCAL-00037">
+      <created>1596679841538</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1596679841538</updated>
+    </task>
+    <task id="LOCAL-00038">
+      <created>1596709599959</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1596709599959</updated>
+    </task>
+    <task id="LOCAL-00039">
+      <created>1596710671414</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1596710671414</updated>
+    </task>
+    <task id="LOCAL-00040">
+      <created>1597045501741</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1597045501741</updated>
+    </task>
+    <task id="LOCAL-00041">
+      <created>1610521176993</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1610521176993</updated>
+    </task>
+    <task id="LOCAL-00042">
+      <created>1610524910128</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1610524910128</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mall/api/PercentCenterApi.java</url>
+          <line>279</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/jizhi_lingzhi$jizhi_lingzhi.ic" NAME="jizhi-lingzhi Coverage Results" MODIFIED="1595833403196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
